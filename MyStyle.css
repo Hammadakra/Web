@@ -1,0 +1,50 @@
+.header
+{
+    height: 170px;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(119, 109, 118);
+    color: white;
+    text-align: center;
+    padding-top: 7.5%;
+}
+
+.side
+{ 
+    display:inline-block;
+    float: left;
+    height: 250px;
+    width: 30%;
+    background-color: rgb(199, 185, 160);
+}
+.sideLeft
+{ 
+    display: inline-block;
+    float: left;
+    height: 250px;
+    width: 70%;
+    background-color: rgb(209, 202, 188);
+}
+.footer
+{
+    display: inline-block;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(114, 111, 106);
+    color: white;
+    text-align: center;
+    position: relative;
+    top:-10px;
+    left:0px;
+   
+}
+p,h3
+{
+    padding-left: 10px;
+}
+
+a
+{
+  padding : 10%; 
+  margin-top: 100px;
+}
